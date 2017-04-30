@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# https://www.hackerrank.com/contests/capture-the-flag/challenges/infinite-links
 import requests
 from lxml import html
 
